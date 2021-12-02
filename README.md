@@ -27,6 +27,7 @@ https://archive.ics.uci.edu/ml/datasets/bank+marketing
 ### Univariate Exploration
 
 We begin by checking what percentage of bank clients agree to open term deposit as per the given data.
+
 <img src="./plots/pie-y-ratio.png" />
 
 Out of the total calls that are made, 11.3 % of them are successful i.e. the client opens the term deposit.
