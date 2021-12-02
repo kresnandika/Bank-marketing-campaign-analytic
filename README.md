@@ -1,4 +1,4 @@
-# Bank marketing campaign segmen analytic
+# Bank marketing campaign segment analytic
 
 ![image](https://user-images.githubusercontent.com/64974149/144488446-fc1c62d6-39e9-418a-9025-8e43033a613b.png)
 
