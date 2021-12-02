@@ -1,5 +1,5 @@
-# Bank marketing campaigns analysis
-#### by Jyoti K
+# Bank marketing campaign analysis
+
 
 <br>
 
