@@ -44,7 +44,7 @@ Let's also explore correlation in between numeric variables.
 
 - Our variable of interest 'y_n' appears to have some correlation with EVR, euribor and no_emp. We will explore this further in multivariate exploration.
 - There also seems to be very strong correlation in between Employment Variation Rate, Euribor and number of employees.
-
+fds
 
 
 <br>
